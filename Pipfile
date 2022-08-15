@@ -8,6 +8,7 @@ jupyterlab = "*"
 pandas = "*"
 plotly = "*"
 nbstripout = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
