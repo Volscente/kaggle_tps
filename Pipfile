@@ -9,6 +9,7 @@ pandas = "*"
 plotly = "*"
 nbstripout = "*"
 scikit-learn = "*"
+xgboost = "*"
 
 [dev-packages]
 
