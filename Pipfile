@@ -10,6 +10,7 @@ plotly = "*"
 nbstripout = "*"
 scikit-learn = "*"
 xgboost = "*"
+seaborn = "*"
 
 [dev-packages]
 
