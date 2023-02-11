@@ -12,6 +12,7 @@ scikit-learn = "*"
 xgboost = "*"
 seaborn = "*"
 lightgbm = "*"
+hyperopt = "*"
 
 [dev-packages]
 
