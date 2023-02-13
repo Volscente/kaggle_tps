@@ -13,6 +13,8 @@ xgboost = "*"
 seaborn = "*"
 lightgbm = "*"
 hyperopt = "*"
+shapely = "*"
+geopandas = "*"
 
 [dev-packages]
 
