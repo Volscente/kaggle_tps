@@ -15,6 +15,7 @@ lightgbm = "*"
 hyperopt = "*"
 shapely = "*"
 geopandas = "*"
+mlflow = "*"
 
 [dev-packages]
 
