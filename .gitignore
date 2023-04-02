@@ -128,5 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# MacOS Files
 .idea
 .DS_Store
+
+# S3E1 Files
+/notebooks/S3E1/mlruns
