@@ -16,6 +16,7 @@ hyperopt = "*"
 shapely = "*"
 geopandas = "*"
 mlflow = "*"
+colorama = "*"
 
 [dev-packages]
 
