@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s.porreca/Projects/kaggle_tps/notebooks/S3E13/mlruns/131437125800131498/ddd9c90b0d4945eea45d5d41788c7b58/artifacts
+end_time: 1682959088661
+entry_point_name: ''
+experiment_id: '131437125800131498'
+lifecycle_stage: active
+run_id: ddd9c90b0d4945eea45d5d41788c7b58
+run_name: Logistic Regression
+run_uuid: ddd9c90b0d4945eea45d5d41788c7b58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682959088578
+status: 3
+tags: []
+user_id: s.porreca
