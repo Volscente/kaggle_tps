@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s.porreca/Projects/kaggle_tps/notebooks/S3E13/mlruns/131437125800131498/02dc78a4ed724228ac5f0208b1e8e74c/artifacts
+end_time: 1682960050934
+entry_point_name: ''
+experiment_id: '131437125800131498'
+lifecycle_stage: active
+run_id: 02dc78a4ed724228ac5f0208b1e8e74c
+run_name: MLP Classifier
+run_uuid: 02dc78a4ed724228ac5f0208b1e8e74c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682960050813
+status: 3
+tags: []
+user_id: s.porreca
