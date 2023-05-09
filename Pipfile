@@ -17,6 +17,7 @@ shapely = "*"
 geopandas = "*"
 mlflow = "*"
 colorama = "*"
+statsmodels = "*"
 
 [dev-packages]
 
