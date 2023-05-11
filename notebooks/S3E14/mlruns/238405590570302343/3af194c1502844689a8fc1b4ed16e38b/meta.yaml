@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s.porreca/Projects/kaggle_tps/notebooks/S3E14/mlruns/238405590570302343/3af194c1502844689a8fc1b4ed16e38b/artifacts
+end_time: 1683818585441
+entry_point_name: ''
+experiment_id: '238405590570302343'
+lifecycle_stage: active
+run_id: 3af194c1502844689a8fc1b4ed16e38b
+run_name: Linear Regression
+run_uuid: 3af194c1502844689a8fc1b4ed16e38b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683818585428
+status: 4
+tags: []
+user_id: s.porreca
