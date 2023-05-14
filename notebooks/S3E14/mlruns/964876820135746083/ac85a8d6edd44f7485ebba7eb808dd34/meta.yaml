@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s.porreca/Projects/kaggle_tps/notebooks/S3E14/mlruns/964876820135746083/ac85a8d6edd44f7485ebba7eb808dd34/artifacts
+end_time: 1684096693097
+entry_point_name: ''
+experiment_id: '964876820135746083'
+lifecycle_stage: active
+run_id: ac85a8d6edd44f7485ebba7eb808dd34
+run_name: LightGBM
+run_uuid: ac85a8d6edd44f7485ebba7eb808dd34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684096691277
+status: 3
+tags: []
+user_id: s.porreca
