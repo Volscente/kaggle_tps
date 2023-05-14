@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s.porreca/Projects/kaggle_tps/notebooks/S3E14/mlruns/964876820135746083/abf0baf544904373b0481eacc46b599d/artifacts
+end_time: 1684095648055
+entry_point_name: ''
+experiment_id: '964876820135746083'
+lifecycle_stage: active
+run_id: abf0baf544904373b0481eacc46b599d
+run_name: XGBoost
+run_uuid: abf0baf544904373b0481eacc46b599d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684095647623
+status: 3
+tags: []
+user_id: s.porreca
