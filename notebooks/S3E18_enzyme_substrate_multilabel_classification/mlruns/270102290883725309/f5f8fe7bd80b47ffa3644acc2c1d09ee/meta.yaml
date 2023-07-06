@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s.porreca/Projects/kaggle_tps/notebooks/S3E18_enzyme_substrate_multilabel_classification/mlruns/270102290883725309/f5f8fe7bd80b47ffa3644acc2c1d09ee/artifacts
+end_time: 1688668833936
+entry_point_name: ''
+experiment_id: '270102290883725309'
+lifecycle_stage: active
+run_id: f5f8fe7bd80b47ffa3644acc2c1d09ee
+run_name: Logistic Regression
+run_uuid: f5f8fe7bd80b47ffa3644acc2c1d09ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688668833902
+status: 4
+tags: []
+user_id: s.porreca
