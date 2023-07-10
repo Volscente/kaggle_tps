@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s.porreca/Projects/kaggle_tps/notebooks/S3E18_enzyme_substrate_multilabel_classification/mlruns/270102290883725309/a01a04fa8fcb4e118141a8e24a8b4d84/artifacts
+end_time: 1689008990800
+entry_point_name: ''
+experiment_id: '270102290883725309'
+lifecycle_stage: active
+run_id: a01a04fa8fcb4e118141a8e24a8b4d84
+run_name: XGBoost
+run_uuid: a01a04fa8fcb4e118141a8e24a8b4d84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689008986934
+status: 3
+tags: []
+user_id: s.porreca

@@ -1,0 +1,8 @@
+Index(['BertzCT', 'Chi1', 'Chi1n', 'Chi1v', 'Chi2n', 'Chi2v', 'Chi3v', 'Chi4n',
+       'EState_VSA1', 'EState_VSA2', 'ExactMolWt', 'FpDensityMorgan1',
+       'FpDensityMorgan2', 'FpDensityMorgan3', 'HallKierAlpha',
+       'HeavyAtomMolWt', 'Kappa3', 'MaxAbsEStateIndex', 'MinEStateIndex',
+       'NumHeteroatoms', 'PEOE_VSA10', 'PEOE_VSA14', 'PEOE_VSA6', 'PEOE_VSA7',
+       'PEOE_VSA8', 'SMR_VSA10', 'SMR_VSA5', 'SlogP_VSA3', 'VSA_EState9',
+       'fr_COO', 'fr_COO2'],
+      dtype='object')
